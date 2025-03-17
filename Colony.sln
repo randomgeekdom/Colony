@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35906.104 d17.14
+VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colony.Core", "Colony.Core\Colony.Core.csproj", "{24507918-0C52-41F3-A785-53E3C5B76348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colony.Tests", "Colony.Tests\Colony.Tests.csproj", "{7997D4E2-4A58-488F-BC32-3E2A6E7C59BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{24507918-0C52-41F3-A785-53E3C5B76348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24507918-0C52-41F3-A785-53E3C5B76348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24507918-0C52-41F3-A785-53E3C5B76348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7997D4E2-4A58-488F-BC32-3E2A6E7C59BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7997D4E2-4A58-488F-BC32-3E2A6E7C59BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7997D4E2-4A58-488F-BC32-3E2A6E7C59BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7997D4E2-4A58-488F-BC32-3E2A6E7C59BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
